@@ -1,0 +1,20 @@
+.robos{
+  display: flex;
+  gap: 20px;
+}
+
+.robos2{
+  display: flex;
+  gap: 10px;
+  justify-content: row;
+
+}
+
+.robos1{
+   text-align: center;
+   gap: 80px;
+}
+
+.robo{
+    height: 400px;
+}
